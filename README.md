@@ -11,7 +11,7 @@ There are the following files to use:
 </ul>
 
 ## Acknowledgements ##
-This project was the second project at the Udacity Nanodegree program "Introduction to Machine LEarning with PyTorch". I am super thankful for this experience and proud to be certified with this nanodegree program.
+This project was the second project at the Udacity Nanodegree program "Introduction to Machine Learning with PyTorch". I am super thankful for this experience and proud to be certified with this nanodegree program.
 
 ## License ##
 This project is open source and available under the [Udacity License]
